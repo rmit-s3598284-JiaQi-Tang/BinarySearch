@@ -1,2 +1,2 @@
 # BinarySearch
-a little algorithm test
+a little algorithm test~
